@@ -2,4 +2,5 @@
 void main ()
 {
 print("hello 2020"):
+print("\this is a c programe")
 }
